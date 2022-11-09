@@ -1,0 +1,2 @@
+# aulatoken
+AAAAAAAAAAAAAAAAAA
